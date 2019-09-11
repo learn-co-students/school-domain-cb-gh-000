@@ -21,10 +21,7 @@ class School
 
   def sort
     @roster.each do |grade, names|
-      names.sort do |a , b|
-        a <=> b
-      end
+      @roster[grade] = names.sort
     end
   end
-
 end
