@@ -6,7 +6,7 @@
 2. Create your own domain model. 
 3. Write instance methods that manipulate nested data structures. 
 
-## What is a Domain Model?
+## What is ad Domain Model?
 
 A domain model is a representation of real-world concepts in software. The concept of domain modeling is key in object orientation. In object orientation, we think of our classes as templates for objects. The instances of our classes are thought of as objects. For example, a Person class produces people objects that have attributes and behaviors, as described and enacted by instance methods. 
 
